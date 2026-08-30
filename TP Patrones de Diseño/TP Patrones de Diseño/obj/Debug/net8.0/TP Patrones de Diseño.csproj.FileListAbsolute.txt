@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\bin\Debug\net8.0\TP Patrones de Diseño.exe
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\bin\Debug\net8.0\TP Patrones de Diseño.deps.json
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\bin\Debug\net8.0\TP Patrones de Diseño.runtimeconfig.json
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\bin\Debug\net8.0\TP Patrones de Diseño.dll
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\bin\Debug\net8.0\TP Patrones de Diseño.pdb
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\obj\Debug\net8.0\TP Patrones de Diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\obj\Debug\net8.0\TP Patrones de Diseño.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\obj\Debug\net8.0\TP Patrones de Diseño.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\obj\Debug\net8.0\TP Patrones de Diseño.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\obj\Debug\net8.0\TP Patrones de Diseño.dll
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\obj\Debug\net8.0\refint\TP Patrones de Diseño.dll
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\obj\Debug\net8.0\TP Patrones de Diseño.pdb
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\obj\Debug\net8.0\TP Patrones de Diseño.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Facultad\3° Año\1° Cuatrimestre\Ingeniería de Software\TP Patrones de Diseño\TP Patrones de Diseño\obj\Debug\net8.0\ref\TP Patrones de Diseño.dll
