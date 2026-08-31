@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP Patrones de Diseño")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+703ad4ca80c2a0cafa785aa16da641dd4e5bb0b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP Patrones de Diseño")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP Patrones de Diseño")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

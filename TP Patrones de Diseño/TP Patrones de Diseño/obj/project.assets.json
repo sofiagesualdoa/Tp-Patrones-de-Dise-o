@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\OneDrive\\Facultad\\3° Año\\1° Cuatrimestre\\Ingeniería de Software\\TP Patrones de Diseño\\TP Patrones de Diseño\\TP Patrones de Diseño.csproj",
-      "projectName": "TP Patrones de Diseño",
-      "projectPath": "C:\\Users\\usuario\\OneDrive\\Facultad\\3° Año\\1° Cuatrimestre\\Ingeniería de Software\\TP Patrones de Diseño\\TP Patrones de Diseño\\TP Patrones de Diseño.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\OneDrive\\Facultad\\3° Año\\2° Cuatrimestre\\Trabajo de Diploma\\TP Patrones\\Tp-Patrones-de-Dise-o\\TP Patrones de Diseño\\TP Patrones de Diseño\\Ejemplo 1 - Chain (Soporte).csproj",
+      "projectName": "Ejemplo 1 - Chain (Soporte)",
+      "projectPath": "C:\\Users\\usuario\\OneDrive\\Facultad\\3° Año\\2° Cuatrimestre\\Trabajo de Diploma\\TP Patrones\\Tp-Patrones-de-Dise-o\\TP Patrones de Diseño\\TP Patrones de Diseño\\Ejemplo 1 - Chain (Soporte).csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\OneDrive\\Facultad\\3° Año\\1° Cuatrimestre\\Ingeniería de Software\\TP Patrones de Diseño\\TP Patrones de Diseño\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\OneDrive\\Facultad\\3° Año\\2° Cuatrimestre\\Trabajo de Diploma\\TP Patrones\\Tp-Patrones-de-Dise-o\\TP Patrones de Diseño\\TP Patrones de Diseño\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
