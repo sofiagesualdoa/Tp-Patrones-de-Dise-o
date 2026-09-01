@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PatronBuilderEj1/1.0.0": {
+        "runtime": {
+          "PatronBuilderEj1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatronBuilderEj1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejemplo 2 - Chain (Descuentos)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+703ad4ca80c2a0cafa785aa16da641dd4e5bb0b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5842d93bf82a9a875dcadc9a7bdda2617ae70f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejemplo 2 - Chain (Descuentos)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejemplo 2 - Chain (Descuentos)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

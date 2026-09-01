@@ -1,0 +1,29 @@
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.exe
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.deps.json
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.runtimeconfig.json
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.dll
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.pdb
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.AssemblyInfoInputs.cache
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.AssemblyInfo.cs
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.dll
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\obj\Debug\net8.0\refint\PatronBuilderEj2.dll
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.pdb
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.genruntimeconfig.cache
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patrones\PatronBuilder\PatronBuilderEj2\obj\Debug\net8.0\ref\PatronBuilderEj2.dll
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.exe
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.deps.json
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.runtimeconfig.json
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.dll
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\bin\Debug\net8.0\PatronBuilderEj2.pdb
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.AssemblyInfoInputs.cache
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.AssemblyInfo.cs
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.sourcelink.json
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.dll
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\refint\PatronBuilderEj2.dll
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.pdb
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\PatronBuilderEj2.genruntimeconfig.cache
+C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilderEj2\obj\Debug\net8.0\ref\PatronBuilderEj2.dll
