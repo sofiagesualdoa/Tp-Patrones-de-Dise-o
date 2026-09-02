@@ -13,25 +13,37 @@ do
     Console.WriteLine("1. Registrar problema");
     Console.WriteLine("2. Salir");
     Console.Write("Seleccione una opción: ");
+    Console.WriteLine();
     if (!int.TryParse(Console.ReadLine(), out opcion))
     {
         Console.WriteLine("Entrada inválida. Por favor, ingrese un número.");
+        Console.WriteLine();
         continue;
     }
     switch (opcion)
     {
         case 1:
-            Console.WriteLine("Seleccione la complejidad:");
-            Console.WriteLine("1. Simple");
-            Console.WriteLine("2. Intermedio");
-            Console.WriteLine("3. Complejo");
-            Console.Write("Ingrese la complejidad: ");
-            if (!int.TryParse(Console.ReadLine(), out complejidad))
+            do
             {
-                Console.WriteLine("Entrada inválida. Por favor, ingrese un número.");
-                Console.WriteLine();
-                continue;
-            }
+                Console.WriteLine("Seleccione la complejidad:");
+                Console.WriteLine("1. Simple");
+                Console.WriteLine("2. Intermedio");
+                Console.WriteLine("3. Complejo");
+                Console.Write("Ingrese la complejidad: ");
+                if (!int.TryParse(Console.ReadLine(), out complejidad))
+                {
+                    Console.WriteLine("Entrada inválida. Por favor, ingrese un número.");
+                    Console.WriteLine();
+                    continue;
+                }
+                if (complejidad < 1 || complejidad > 3)
+                {
+                    Console.WriteLine("Opción inválida. Ingrese 1, 2 o 3.");
+                    Console.WriteLine();
+                    continue;
+                }
+                break;
+            } while(true);
             Console.WriteLine("Procesando solicitud...");
             nivel1.Atender(complejidad);
             break;
@@ -40,6 +52,7 @@ do
             break;
         default:
             Console.WriteLine("Opción inválida. Ingrese 1 o 2.");
+            Console.WriteLine();
             break;
     }
 } while (opcion != 2);

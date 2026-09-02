@@ -27,3 +27,18 @@ C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder 
 C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.pdb
 C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.genruntimeconfig.cache
 C:\Users\Vicky\Desktop\Facu\3er año 2 cuatri\Trabajo de diploma\Patron builder y CoR ejemplos\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\ref\PatronBuilderEj1.dll
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\bin\Debug\net8.0\PatronBuilderEj1.exe
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\bin\Debug\net8.0\PatronBuilderEj1.deps.json
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\bin\Debug\net8.0\PatronBuilderEj1.runtimeconfig.json
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\bin\Debug\net8.0\PatronBuilderEj1.dll
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\bin\Debug\net8.0\PatronBuilderEj1.pdb
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.sourcelink.json
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.dll
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\refint\PatronBuilderEj1.dll
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.pdb
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\PatronBuilderEj1.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Facultad\3° Año\2° Cuatrimestre\Trabajo de Diploma\TP Patrones\Tp-Patrones-de-Dise-o\TP Patrones de Diseño\PatronBuilder\obj\Debug\net8.0\ref\PatronBuilderEj1.dll
